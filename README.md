@@ -21,7 +21,7 @@
 ### Installation Steps:
  clone the repository:
 ```
-git clone https://github.com/vp2008a/blockchain_prj_IU2141230204.git
+git clone https://github.com/Mit2509mp/Voting_BlockChain.git
 
 ```
 After you cloned the repository, you want to install the packages using:
